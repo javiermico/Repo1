@@ -1,4 +1,4 @@
-﻿Hola que tal
+﻿Hola que tal boló
 Este es el archivo termido por vim
 no se que decia.
 Saludos.
