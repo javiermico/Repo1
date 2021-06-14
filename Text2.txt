@@ -9,4 +9,8 @@ Chau.
 
 
 
+
 Agrego data en pc inicial para mergear.
+
+Quiero hacer push desde otra pc.
+

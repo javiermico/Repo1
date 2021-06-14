@@ -14,4 +14,8 @@ Saludos el Remoto.
 
 
 
+
 Agrego data en pc inicial para mergear.
+
+Quiero hacer Push desde otra pc a ver que onda.
+

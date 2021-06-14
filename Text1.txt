@@ -4,6 +4,8 @@ no se que decia.
 Saludos.
 Agrego 2 cosas 1 y 2.
 Agrego en Remoto esto lalaalalal.
+Quiero agregar desde otra compu con git y hacer push
+
 
 
 
